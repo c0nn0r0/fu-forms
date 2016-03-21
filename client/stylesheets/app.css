@@ -1,0 +1,16 @@
+body {
+	padding-top: 50px;
+}
+
+.navbar {
+	background: #333;
+}
+
+
+.navbar a {
+	color: #999;
+}
+
+a {
+	color: #333;
+}
